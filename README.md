@@ -1,4 +1,4 @@
- I am Gabriel Andreguetto Maciel and here I post the data science related projects I work on.
+ I am Gabriel Andreguetto Maciel and here I post codes of data science projects I work on.
 
 <!---
 gandreguetto/gandreguetto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
